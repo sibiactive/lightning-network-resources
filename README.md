@@ -10,5 +10,6 @@ lightningnetwork.plus https://lightningnetwork.plus/nodes/02e668c5d7f19d9cb02496
 
 self routing aka rebalancing https://github.com/lightningnetwork/lnd/pull/3736
 
+test
 
 
